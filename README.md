@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yaoikat&color=purple&style=plastic&label=🌠x🃏"
+ <img src="https://komarev.com/ghpvc/?username=yaoikat&color=#925ae3&style=plastic&label=🌠x🃏"
 </p>
  <p align="center">
   </p>
@@ -12,11 +12,7 @@ ${\textsf{\color{#925ae3}ʚɞ}}$
 </p>
 <p align="center">
 <p align="center">
-  https://rentry.co/yaoikatPT 
+@yaoikat
 <p align="center">
-  https://yaoikat.straw.page/
-<p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lpmqz3bufqngt56rz8g8mtxxc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true">
-</p>
 
 
